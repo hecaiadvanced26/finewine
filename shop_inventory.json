@@ -1,0 +1,1009 @@
+{
+ "meta": {
+  "synthetic": true,
+  "seed": 11,
+  "note": "Fictional demo data. Not real prices or stock."
+ },
+ "inventory": {
+  "20er-schulz-junger-2022-173717954": {
+   "price_eur": 8.5,
+   "stock": 18,
+   "bottle_ml": 750
+  },
+  "20er-schulz-zweigelt-hagelsberg-2017-162180829": {
+   "price_eur": 15.0,
+   "stock": 19,
+   "bottle_ml": 750
+  },
+  "20er-schulz-zweigelt-hagelsberg-nv-142492088": {
+   "price_eur": 14.5,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "8-bagatella-zinfandel-2020-167550000": {
+   "price_eur": 10.5,
+   "stock": 5,
+   "bottle_ml": 750
+  },
+  "african-rock-selection-sauvignon-blanc-2024-176856643": {
+   "price_eur": 7.5,
+   "stock": 24,
+   "bottle_ml": 750
+  },
+  "aldi-bacchus-halbtrocken-nv-176145350": {
+   "price_eur": 8.0,
+   "stock": 1,
+   "bottle_ml": 750
+  },
+  "aldi-diersburger-fursteneck-spatburgunder-trocken-2024-180027535": {
+   "price_eur": 7.5,
+   "stock": 22,
+   "bottle_ml": 750
+  },
+  "aldi-elise-gewurztraminer-nv-168004038": {
+   "price_eur": 10.5,
+   "stock": 6,
+   "bottle_ml": 750
+  },
+  "alte-rocche-bianche-gavi-2023-174821508": {
+   "price_eur": 9.5,
+   "stock": 6,
+   "bottle_ml": 750
+  },
+  "alte-rocche-bianche-gavi-nv-4319232": {
+   "price_eur": 9.5,
+   "stock": 6,
+   "bottle_ml": 750
+  },
+  "amastuola-capocanale-nv-28290414": {
+   "price_eur": 11.0,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "aregone-rosso-2018-161858201": {
+   "price_eur": 9.0,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "bannock-brae-goldfields-pinot-noir-nv-3565156": {
+   "price_eur": 12.0,
+   "stock": 2,
+   "bottle_ml": 750
+  },
+  "barbanera-camasella-appassimento-rosso-2019-160828014": {
+   "price_eur": 13.0,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "barcelino-tinto-2019-159331692": {
+   "price_eur": 11.5,
+   "stock": 2,
+   "bottle_ml": 1500
+  },
+  "baron-de-ceyssac-bordeaux-2024-179742904": {
+   "price_eur": 9.5,
+   "stock": 3,
+   "bottle_ml": 750
+  },
+  "berne-inspiration-rose-nv-157077257": {
+   "price_eur": 8.0,
+   "stock": 21,
+   "bottle_ml": 750
+  },
+  "bernhard-koch-dornfelder-trocken-2018-160750474": {
+   "price_eur": 12.5,
+   "stock": 17,
+   "bottle_ml": 750
+  },
+  "bernhard-koch-konstantin-2013-148971405": {
+   "price_eur": 10.0,
+   "stock": 12,
+   "bottle_ml": 750
+  },
+  "bernhard-koch-merlot-nv-4438428": {
+   "price_eur": 15.0,
+   "stock": 4,
+   "bottle_ml": 750
+  },
+  "bernhard-koch-st-laurent-trocken-nv-4847165": {
+   "price_eur": 11.5,
+   "stock": 7,
+   "bottle_ml": 750
+  },
+  "brookfields-barrique-fermented-viognier-nv-160488574": {
+   "price_eur": 10.0,
+   "stock": 3,
+   "bottle_ml": 750
+  },
+  "brookfields-bergman-chardonnay-nv-4886503": {
+   "price_eur": 9.5,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "brookfields-burnfoot-merlot-nv-3010049": {
+   "price_eur": 11.5,
+   "stock": 15,
+   "bottle_ml": 750
+  },
+  "brookfields-fiesta-rose-nv-158736200": {
+   "price_eur": 7.5,
+   "stock": 8,
+   "bottle_ml": 750
+  },
+  "brookfields-hillside-syrah-nv-3728630": {
+   "price_eur": 13.5,
+   "stock": 23,
+   "bottle_ml": 750
+  },
+  "brookfields-reserve-vintage-cabernet-merlot-nv-4886493": {
+   "price_eur": 13.5,
+   "stock": 10,
+   "bottle_ml": 750
+  },
+  "brookfields-robertson-pinot-gris-nv-4886518": {
+   "price_eur": 10.0,
+   "stock": 1,
+   "bottle_ml": 750
+  },
+  "brookfields-sun-dried-malbec-nv-4886490": {
+   "price_eur": 10.5,
+   "stock": 16,
+   "bottle_ml": 750
+  },
+  "cambras-merlot-cabernet-sauvignon-nv-2562319": {
+   "price_eur": 10.0,
+   "stock": 9,
+   "bottle_ml": 750
+  },
+  "carmen-gran-reserva-cabernet-sauvignon-2017-150873785": {
+   "price_eur": 16.0,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "casa-ermelinda-freitas-vinha-do-torrao-rose-2020-167281258": {
+   "price_eur": 9.5,
+   "stock": 1,
+   "bottle_ml": 750
+  },
+  "casa-ermelinda-freitas-vinha-do-torrao-tinto-2020-166506151": {
+   "price_eur": 11.0,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "cecchi-chianti-riserva-2019-159908435": {
+   "price_eur": 10.5,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "charette-chardonnay-blanc-2024-179552302": {
+   "price_eur": 7.5,
+   "stock": 2,
+   "bottle_ml": 750
+  },
+  "chateau-de-lacarelle-beaujolais-villages-rouge-1994-175728258": {
+   "price_eur": 10.5,
+   "stock": 20,
+   "bottle_ml": 750
+  },
+  "chateau-de-lamarque-heritiers-des-marquis-d-evry-haut-medoc-2018-156928591": {
+   "price_eur": 11.5,
+   "stock": 0,
+   "bottle_ml": 1500
+  },
+  "chateau-de-lirepial-cotes-de-bergerac-blanc-moelleux-2011-72007310": {
+   "price_eur": 18.5,
+   "stock": 4,
+   "bottle_ml": 375
+  },
+  "chateau-du-plantier-bordeaux-2020-165105126": {
+   "price_eur": 8.0,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "chateau-haut-redon-bordeaux-2017-153165549": {
+   "price_eur": 8.5,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "chateau-hautes-terres-bordeaux-blanc-2022-170572341": {
+   "price_eur": 8.0,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "chateau-les-tuileries-bordeaux-rouge-2024-179562324": {
+   "price_eur": 11.5,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "chateau-les-tuileries-bordeaux-rouge-nv-1505870": {
+   "price_eur": 9.5,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "chateau-mayne-guyon-blaye-cotes-de-bordeaux-2018-156329223": {
+   "price_eur": 9.0,
+   "stock": 4,
+   "bottle_ml": 750
+  },
+  "chateau-mayne-guyon-blaye-cotes-de-bordeaux-2020-163088870": {
+   "price_eur": 12.0,
+   "stock": 22,
+   "bottle_ml": 1500
+  },
+  "chateau-tercesne-saint-estephe-nv-155573061": {
+   "price_eur": 11.5,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "chevalier-de-fauvert-sauvignon-blanc-2020-162983913": {
+   "price_eur": 7.0,
+   "stock": 22,
+   "bottle_ml": 750
+  },
+  "dashwood-chardonnay-2023-175763702": {
+   "price_eur": 10.0,
+   "stock": 20,
+   "bottle_ml": 750
+  },
+  "dimitris-liepouris-wines-savatiano-dry-nv-160127781": {
+   "price_eur": 10.0,
+   "stock": 7,
+   "bottle_ml": 750
+  },
+  "domaine-de-cassan-tradition-beaumes-de-venise-2017-159874179": {
+   "price_eur": 13.0,
+   "stock": 4,
+   "bottle_ml": 750
+  },
+  "domaine-de-la-combe-dieu-rasteau-2021-169958297": {
+   "price_eur": 10.0,
+   "stock": 14,
+   "bottle_ml": 750
+  },
+  "domaine-des-champs-gonneau-sauvignon-2021-168943173": {
+   "price_eur": 11.0,
+   "stock": 12,
+   "bottle_ml": 750
+  },
+  "domaine-des-sarrieres-beaumes-de-venise-nv-162590860": {
+   "price_eur": 14.0,
+   "stock": 10,
+   "bottle_ml": 750
+  },
+  "doppio-passo-primitivo-2020-162916710": {
+   "price_eur": 15.0,
+   "stock": 2,
+   "bottle_ml": 750
+  },
+  "doppio-passo-riserva-2016-121716680": {
+   "price_eur": 18.0,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "duca-della-seduzione-appassite-2018-161533907": {
+   "price_eur": 17.5,
+   "stock": 2,
+   "bottle_ml": 750
+  },
+  "duca-della-seduzione-primitivo-2020-167597691": {
+   "price_eur": 11.0,
+   "stock": 19,
+   "bottle_ml": 750
+  },
+  "dutailly-bourgueil-2025-183125132": {
+   "price_eur": 12.0,
+   "stock": 14,
+   "bottle_ml": 750
+  },
+  "emotion-mediterranee-rose-2023-174109097": {
+   "price_eur": 7.5,
+   "stock": 3,
+   "bottle_ml": 750
+  },
+  "erben-gewurztraminer-lieblich-nv-171827241": {
+   "price_eur": 9.5,
+   "stock": 24,
+   "bottle_ml": 750
+  },
+  "erben-riesling-halbtrocken-2023-174206458": {
+   "price_eur": 11.5,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "estezargues-cuvee-des-galets-cotes-du-rhone-nv-4626912": {
+   "price_eur": 10.0,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "ewald-theod-drathen-riesling-gewurztraminer-feinherb-2021-170795891": {
+   "price_eur": 12.0,
+   "stock": 24,
+   "bottle_ml": 750
+  },
+  "expert-club-herault-rouge-nv-159618707": {
+   "price_eur": 8.0,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "famille-perrin-ventoux-2019-160065303": {
+   "price_eur": 12.5,
+   "stock": 19,
+   "bottle_ml": 750
+  },
+  "felix-solis-los-molinos-valdepenas-gran-reserva-2014-70255632": {
+   "price_eur": 7.5,
+   "stock": 21,
+   "bottle_ml": 750
+  },
+  "finca-navahermosa-sol-syrah-bio-2018-162561045": {
+   "price_eur": 9.0,
+   "stock": 16,
+   "bottle_ml": 750
+  },
+  "forest-hill-shiraz-cabernet-trocken-2018-159138909": {
+   "price_eur": 9.5,
+   "stock": 16,
+   "bottle_ml": 750
+  },
+  "fosso-corno-mayro-montepulciano-d-abruzzo-2018-157413202": {
+   "price_eur": 12.5,
+   "stock": 16,
+   "bottle_ml": 750
+  },
+  "freres-couillaud-domaine-petit-chateau-cuvee-prestige-chardonnay-nv-2630492": {
+   "price_eur": 10.0,
+   "stock": 14,
+   "bottle_ml": 750
+  },
+  "gallo-family-vineyards-cabernet-sauvignon-2020-163024406": {
+   "price_eur": 11.0,
+   "stock": 24,
+   "bottle_ml": 750
+  },
+  "gerald-talmard-cuvee-joseph-talmard-macon-chardonnay-2024-179533855": {
+   "price_eur": 9.0,
+   "stock": 6,
+   "bottle_ml": 750
+  },
+  "gerard-bertrand-naturae-cabernet-sauvignon-2020-163141831": {
+   "price_eur": 11.0,
+   "stock": 4,
+   "bottle_ml": 750
+  },
+  "gerard-bertrand-naturae-chardonnay-2024-179682706": {
+   "price_eur": 6.5,
+   "stock": 12,
+   "bottle_ml": 750
+  },
+  "grigori-caye-chateau-peybourdieu-2017-184027417": {
+   "price_eur": 9.0,
+   "stock": 1,
+   "bottle_ml": 750
+  },
+  "habla-silencio-nv-1644042": {
+   "price_eur": 12.5,
+   "stock": 1,
+   "bottle_ml": 750
+  },
+  "jacob-s-creek-classic-cabernet-sauvignon-2021-167070158": {
+   "price_eur": 12.0,
+   "stock": 18,
+   "bottle_ml": 750
+  },
+  "jacob-s-creek-classic-pinot-noir-2024-176869416": {
+   "price_eur": 8.5,
+   "stock": 1,
+   "bottle_ml": 750
+  },
+  "jean-geiler-gewurztraminer-alsace-grand-cru-florimont-nv-16215742": {
+   "price_eur": 12.0,
+   "stock": 9,
+   "bottle_ml": 750
+  },
+  "jean-sablenay-cremant-de-loire-brut-2017-150571455": {
+   "price_eur": 15.0,
+   "stock": 16,
+   "bottle_ml": 750
+  },
+  "johanes-boubee-cotes-de-bergerac-moelleux-2024-179522669": {
+   "price_eur": 27.5,
+   "stock": 8,
+   "bottle_ml": 750
+  },
+  "johann-topf-strassertal-zweigelt-2021-170816822": {
+   "price_eur": 11.0,
+   "stock": 20,
+   "bottle_ml": 1500
+  },
+  "johnston-cabernet-sauvignon-2000-170322746": {
+   "price_eur": 11.0,
+   "stock": 2,
+   "bottle_ml": 750
+  },
+  "josef-muller-sohn-grauer-burgunder-trocken-nv-166104935": {
+   "price_eur": 11.5,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "junges-muller-thurgau-2024-179983918": {
+   "price_eur": 9.5,
+   "stock": 16,
+   "bottle_ml": 750
+  },
+  "keringer-zweigelt-100-days-2020-163092187": {
+   "price_eur": 15.0,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "kina-beach-pinot-noir-nv-4946684": {
+   "price_eur": 16.5,
+   "stock": 14,
+   "bottle_ml": 750
+  },
+  "l-heritage-de-carillan-chardonnay-2015-31342031": {
+   "price_eur": 7.5,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "la-cave-d-augustin-florent-entre-deux-mers-2021-168872692": {
+   "price_eur": 9.0,
+   "stock": 1,
+   "bottle_ml": 750
+  },
+  "la-cave-d-augustin-florent-muscadet-sevre-et-maine-sur-lie-2023-173848979": {
+   "price_eur": 9.0,
+   "stock": 23,
+   "bottle_ml": 750
+  },
+  "la-cave-d-augustin-florent-picpoul-de-pinet-2023-177201137": {
+   "price_eur": 9.5,
+   "stock": 23,
+   "bottle_ml": 750
+  },
+  "la-cepa-alta-cinco-elementos-2019-160086707": {
+   "price_eur": 11.0,
+   "stock": 16,
+   "bottle_ml": 750
+  },
+  "lamberti-soave-classico-2023-177237158": {
+   "price_eur": 10.5,
+   "stock": 24,
+   "bottle_ml": 750
+  },
+  "laposa-prizma-olaszrizling-2025-182408204": {
+   "price_eur": 7.0,
+   "stock": 22,
+   "bottle_ml": 750
+  },
+  "lauffener-katzenbeisser-samtrot-2021-168050118": {
+   "price_eur": 9.5,
+   "stock": 9,
+   "bottle_ml": 750
+  },
+  "leitz-riesling-trocken-2020-164783415": {
+   "price_eur": 9.0,
+   "stock": 10,
+   "bottle_ml": 750
+  },
+  "leitz-riesling-trocken-nv-2162283": {
+   "price_eur": 8.5,
+   "stock": 12,
+   "bottle_ml": 750
+  },
+  "lenotti-veneto-rosso-passo-rosso-nv-1514379": {
+   "price_eur": 12.0,
+   "stock": 8,
+   "bottle_ml": 750
+  },
+  "les-aromes-de-france-syrah-trocken-2016-150012017": {
+   "price_eur": 10.0,
+   "stock": 3,
+   "bottle_ml": 750
+  },
+  "les-celliers-des-terres-de-france-les-talandieres-rouge-nv-172502879": {
+   "price_eur": 8.0,
+   "stock": 3,
+   "bottle_ml": 750
+  },
+  "les-crus-faugeres-parfum-de-schistes-rouge-nv-4674470": {
+   "price_eur": 10.5,
+   "stock": 6,
+   "bottle_ml": 750
+  },
+  "les-ormes-de-cambras-cuvee-reservee-cabernet-sauvignon-2020-162877494": {
+   "price_eur": 8.0,
+   "stock": 22,
+   "bottle_ml": 750
+  },
+  "lidl-cabernet-d-anjou-nv-161127045": {
+   "price_eur": 7.5,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "lidl-chianti-2022-172701123": {
+   "price_eur": 7.0,
+   "stock": 22,
+   "bottle_ml": 750
+  },
+  "lidl-croix-de-ceyssac-bordeaux-2024-179523823": {
+   "price_eur": 12.5,
+   "stock": 14,
+   "bottle_ml": 750
+  },
+  "lidl-croix-de-ceyssac-bordeaux-2025-182516927": {
+   "price_eur": 10.0,
+   "stock": 15,
+   "bottle_ml": 1500
+  },
+  "lidl-croix-de-ceyssac-bordeaux-blanc-moelleux-nv-169243509": {
+   "price_eur": 23.0,
+   "stock": 18,
+   "bottle_ml": 375
+  },
+  "lidl-eselshaut-riesling-vom-lossboden-trocken-2019-163794235": {
+   "price_eur": 8.0,
+   "stock": 7,
+   "bottle_ml": 750
+  },
+  "lidl-les-aubrieres-pinot-noir-2025-182811639": {
+   "price_eur": 7.0,
+   "stock": 24,
+   "bottle_ml": 750
+  },
+  "lidl-saint-emilion-grand-cru-2024-179812618": {
+   "price_eur": 12.5,
+   "stock": 14,
+   "bottle_ml": 750
+  },
+  "lidl-terres-legendaires-bordeaux-2020-170974460": {
+   "price_eur": 8.5,
+   "stock": 9,
+   "bottle_ml": 750
+  },
+  "lidl-terres-legendaires-bordeaux-2025-182411992": {
+   "price_eur": 9.0,
+   "stock": 15,
+   "bottle_ml": 750
+  },
+  "listel-grain-de-gris-2023-174274241": {
+   "price_eur": 9.0,
+   "stock": 6,
+   "bottle_ml": 750
+  },
+  "loma-larga-cabernet-franc-rose-nv-157266932": {
+   "price_eur": 8.5,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "louis-raynald-reserve-chardonnay-nv-181215172": {
+   "price_eur": 9.5,
+   "stock": 2,
+   "bottle_ml": 750
+  },
+  "m-chapoutier-domaine-de-bila-haut-occultum-lapidem-2015-18485907": {
+   "price_eur": 14.0,
+   "stock": 22,
+   "bottle_ml": 750
+  },
+  "m-schomann-stuckberg-riesling-feinherb-2019-164010036": {
+   "price_eur": 8.5,
+   "stock": 10,
+   "bottle_ml": 750
+  },
+  "maria-rigol-ordi-cava-brut-nature-nv-8265089": {
+   "price_eur": 17.5,
+   "stock": 3,
+   "bottle_ml": 750
+  },
+  "marlborough-sun-sauvignon-blanc-2020-163050537": {
+   "price_eur": 11.5,
+   "stock": 10,
+   "bottle_ml": 750
+  },
+  "mas-coutelou-loublie-nv-113011263": {
+   "price_eur": 10.0,
+   "stock": 14,
+   "bottle_ml": 750
+  },
+  "masca-del-tacco-susumaniello-2018-156145052": {
+   "price_eur": 16.0,
+   "stock": 7,
+   "bottle_ml": 750
+  },
+  "masca-del-tacco-susumaniello-2020-163045110": {
+   "price_eur": 18.0,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "michalakis-mandilari-2021-168914234": {
+   "price_eur": 12.0,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "michel-laurent-gros-plant-du-pays-nantais-2022-175772697": {
+   "price_eur": 8.5,
+   "stock": 19,
+   "bottle_ml": 750
+  },
+  "miljas-malvasija-dubrovacka-nv-3736257": {
+   "price_eur": 11.0,
+   "stock": 13,
+   "bottle_ml": 750
+  },
+  "montana-pinot-gris-2024-179181066": {
+   "price_eur": 7.5,
+   "stock": 24,
+   "bottle_ml": 750
+  },
+  "montana-riesling-nv-4752325": {
+   "price_eur": 11.5,
+   "stock": 4,
+   "bottle_ml": 1500
+  },
+  "montana-sauvignon-blanc-2023-175587943": {
+   "price_eur": 9.0,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "montana-winemaker-s-series-sauvignon-blanc-2023-175200354": {
+   "price_eur": 11.0,
+   "stock": 16,
+   "bottle_ml": 750
+  },
+  "monte-chiaro-anno-domini-345-chianti-colli-senesi-2016-152522412": {
+   "price_eur": 17.0,
+   "stock": 1,
+   "bottle_ml": 750
+  },
+  "monte-martino-del-lago-merlot-2020-170528379": {
+   "price_eur": 10.5,
+   "stock": 20,
+   "bottle_ml": 750
+  },
+  "montedidio-stuni-2020-163251901": {
+   "price_eur": 16.5,
+   "stock": 1,
+   "bottle_ml": 750
+  },
+  "montes-classic-series-reserva-cabernet-sauvignon-2021-167100639": {
+   "price_eur": 9.5,
+   "stock": 10,
+   "bottle_ml": 750
+  },
+  "naumburger-sauvignon-blanc-spatlese-trocken-nv-160536810": {
+   "price_eur": 11.0,
+   "stock": 8,
+   "bottle_ml": 750
+  },
+  "negro-angelo-cescu-dolcetto-d-alba-2020-165973675": {
+   "price_eur": 10.5,
+   "stock": 17,
+   "bottle_ml": 750
+  },
+  "netzl-rose-2020-168876082": {
+   "price_eur": 9.5,
+   "stock": 2,
+   "bottle_ml": 750
+  },
+  "oak-estate-1000-vines-reserve-chardonnay-2020-175718352": {
+   "price_eur": 10.0,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "oak-estate-chenin-blanc-2022-176020271": {
+   "price_eur": 10.5,
+   "stock": 12,
+   "bottle_ml": 750
+  },
+  "oak-estate-home-block-chardonnay-2019-167801673": {
+   "price_eur": 10.0,
+   "stock": 12,
+   "bottle_ml": 750
+  },
+  "oak-estate-merlot-2020-173638268": {
+   "price_eur": 11.0,
+   "stock": 10,
+   "bottle_ml": 750
+  },
+  "oak-estate-syrah-2020-173801327": {
+   "price_eur": 9.5,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "paritua-stone-paddock-chardonnay-nv-21637179": {
+   "price_eur": 9.0,
+   "stock": 3,
+   "bottle_ml": 750
+  },
+  "paritua-stone-paddock-pinot-gris-nv-177575788": {
+   "price_eur": 12.5,
+   "stock": 11,
+   "bottle_ml": 750
+  },
+  "paritua-stone-paddock-rose-nv-157833628": {
+   "price_eur": 8.5,
+   "stock": 14,
+   "bottle_ml": 750
+  },
+  "peter-mertes-morio-muskat-lieblich-nv-20990927": {
+   "price_eur": 9.0,
+   "stock": 18,
+   "bottle_ml": 750
+  },
+  "piccini-chianti-riserva-2017-150770119": {
+   "price_eur": 12.0,
+   "stock": 17,
+   "bottle_ml": 750
+  },
+  "pierre-jean-larraque-chateau-vernous-medoc-nv-2213422": {
+   "price_eur": 13.0,
+   "stock": 23,
+   "bottle_ml": 750
+  },
+  "ponte-lungo-curioso-2018-156118413": {
+   "price_eur": 14.0,
+   "stock": 17,
+   "bottle_ml": 750
+  },
+  "ponte-lungo-curioso-grand-edizione-2018-158222216": {
+   "price_eur": 15.0,
+   "stock": 21,
+   "bottle_ml": 750
+  },
+  "ravenswood-old-vine-zinfandel-2018-156215883": {
+   "price_eur": 13.5,
+   "stock": 13,
+   "bottle_ml": 750
+  },
+  "rocca-parelli-primitivo-merlot-2018-161778133": {
+   "price_eur": 8.5,
+   "stock": 23,
+   "bottle_ml": 750
+  },
+  "roche-mazet-cuvee-signature-chardonnay-2025-182394094": {
+   "price_eur": 8.0,
+   "stock": 13,
+   "bottle_ml": 750
+  },
+  "salzl-seewinkelhof-premium-cuvee-3-5-8-2019-164195205": {
+   "price_eur": 14.0,
+   "stock": 7,
+   "bottle_ml": 750
+  },
+  "san-marzano-granbello-primitivo-nv-164404702": {
+   "price_eur": 11.0,
+   "stock": 12,
+   "bottle_ml": 750
+  },
+  "san-marzano-il-pumo-primitivo-2020-163404032": {
+   "price_eur": 15.0,
+   "stock": 16,
+   "bottle_ml": 750
+  },
+  "sauerweins-eiswein-nv-10421915": {
+   "price_eur": 26.0,
+   "stock": 2,
+   "bottle_ml": 375
+  },
+  "scala-dei-prior-2017-151514240": {
+   "price_eur": 15.5,
+   "stock": 22,
+   "bottle_ml": 750
+  },
+  "sileni-estates-lodge-grand-reserve-chardonnay-nv-166042822": {
+   "price_eur": 10.0,
+   "stock": 9,
+   "bottle_ml": 750
+  },
+  "sileni-estates-straits-grand-reserve-sauvignon-blanc-nv-162767498": {
+   "price_eur": 13.0,
+   "stock": 4,
+   "bottle_ml": 750
+  },
+  "sileni-estates-triangle-grand-reserve-merlot-nv-165221490": {
+   "price_eur": 9.5,
+   "stock": 4,
+   "bottle_ml": 750
+  },
+  "sire-de-beaupre-mousseux-demi-sec-2008-4288962": {
+   "price_eur": 16.0,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "st-remigius-merdinger-buhl-spatburgunder-trocken-2022-171363527": {
+   "price_eur": 14.5,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "szaszi-birtok-zeus-nv-171180898": {
+   "price_eur": 12.5,
+   "stock": 3,
+   "bottle_ml": 750
+  },
+  "taferner-cuvee-nv-15793384": {
+   "price_eur": 9.5,
+   "stock": 11,
+   "bottle_ml": 750
+  },
+  "taferner-rubin-2020-167510838": {
+   "price_eur": 14.5,
+   "stock": 15,
+   "bottle_ml": 750
+  },
+  "taylors-wakefield-estate-merlot-2018-157139593": {
+   "price_eur": 15.0,
+   "stock": 21,
+   "bottle_ml": 750
+  },
+  "te-awa-merlot-cabernet-sauvignon-2018-158655103": {
+   "price_eur": 10.0,
+   "stock": 3,
+   "bottle_ml": 750
+  },
+  "tement-kalk-kreide-sauvignon-blanc-2023-177183699": {
+   "price_eur": 9.0,
+   "stock": 2,
+   "bottle_ml": 750
+  },
+  "terrescure-bernardeschi-governo-2018-163655040": {
+   "price_eur": 16.0,
+   "stock": 7,
+   "bottle_ml": 750
+  },
+  "thuringer-weingut-excellence-chardonnay-trocken-2021-170306903": {
+   "price_eur": 10.0,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "thuringer-weingut-jenaer-grafenberg-weissburgunder-trocken-nv-152355416": {
+   "price_eur": 11.0,
+   "stock": 10,
+   "bottle_ml": 750
+  },
+  "thuringer-weinhaus-muller-thurgau-nv-2879735": {
+   "price_eur": 11.5,
+   "stock": 19,
+   "bottle_ml": 750
+  },
+  "underground-pinot-noir-nv-17168138": {
+   "price_eur": 9.5,
+   "stock": 9,
+   "bottle_ml": 750
+  },
+  "unknown-cidre-bouche-breton-cuvee-special-kerisac-nv-2336419": {
+   "price_eur": 14.5,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "unknown-croix-de-ceyssac-bordeaux-superieur-nv-178861838": {
+   "price_eur": 11.5,
+   "stock": 15,
+   "bottle_ml": 750
+  },
+  "unknown-dunantuli-sauvignon-blanc-2025-183362934": {
+   "price_eur": 8.5,
+   "stock": 11,
+   "bottle_ml": 750
+  },
+  "unknown-fresh-zesty-sauvignon-blanc-nv-87788260": {
+   "price_eur": 8.0,
+   "stock": 13,
+   "bottle_ml": 750
+  },
+  "unknown-hoffmann-s-wein-bar-montepulciano-nv-167414633": {
+   "price_eur": 14.0,
+   "stock": 19,
+   "bottle_ml": 750
+  },
+  "unknown-lieblingswein-grauburgunder-2024-180532168": {
+   "price_eur": 12.0,
+   "stock": 6,
+   "bottle_ml": 750
+  },
+  "unknown-oberrimsinger-attilafelsen-spatburgunder-trocken-2020-168191778": {
+   "price_eur": 6.0,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "unknown-paul-chardigny-bourgogne-pinot-noir-nv-183284835": {
+   "price_eur": 12.5,
+   "stock": 20,
+   "bottle_ml": 750
+  },
+  "unknown-red-2014-123897898": {
+   "price_eur": 13.0,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "unknown-sauvignon-blanc-trocken-nv-10682880": {
+   "price_eur": 12.5,
+   "stock": 18,
+   "bottle_ml": 750
+  },
+  "unknown-tegut-bio-montepulciano-abruzzen-trocken-2020-170403781": {
+   "price_eur": 12.0,
+   "stock": 9,
+   "bottle_ml": 750
+  },
+  "veuve-emille-demi-sec-champagne-nv-2863507": {
+   "price_eur": 13.0,
+   "stock": 8,
+   "bottle_ml": 750
+  },
+  "vieux-papes-cuvee-reservee-merlot-syrah-2010-3594436": {
+   "price_eur": 12.5,
+   "stock": 8,
+   "bottle_ml": 750
+  },
+  "vina-marquez-cabernet-sauvignon-nv-3026416": {
+   "price_eur": 6.5,
+   "stock": 8,
+   "bottle_ml": 750
+  },
+  "waimea-sauvignon-gris-nv-143301186": {
+   "price_eur": 9.0,
+   "stock": 7,
+   "bottle_ml": 750
+  },
+  "waldschutz-ried-rosengartl-gruner-veltliner-reserve-nv-165701202": {
+   "price_eur": 13.5,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "wein-genuss-grauburgunder-rivaner-trocken-nv-156918925": {
+   "price_eur": 8.0,
+   "stock": 1,
+   "bottle_ml": 750
+  },
+  "weinbau-markus-lager-reserve-weissburgunder-nv-172465937": {
+   "price_eur": 14.0,
+   "stock": 0,
+   "bottle_ml": 750
+  },
+  "weingut-bollig-cuvee-22-punkt-2018-162625472": {
+   "price_eur": 7.5,
+   "stock": 9,
+   "bottle_ml": 750
+  },
+  "weingut-bollig-cuvee-22-punkt-nv-162603812": {
+   "price_eur": 10.5,
+   "stock": 21,
+   "bottle_ml": 750
+  },
+  "weingut-krug-chardonnay-reserve-nv-145855079": {
+   "price_eur": 11.0,
+   "stock": 8,
+   "bottle_ml": 750
+  },
+  "weingut-spiess-bechtheimer-riesling-2012-2831690": {
+   "price_eur": 10.0,
+   "stock": 7,
+   "bottle_ml": 750
+  },
+  "weinhaus-zu-weimar-spatburgunder-trocken-nv-30041534": {
+   "price_eur": 8.5,
+   "stock": 11,
+   "bottle_ml": 750
+  },
+  "white-cliff-merlot-2022-174281543": {
+   "price_eur": 7.0,
+   "stock": 10,
+   "bottle_ml": 750
+  },
+  "white-cliff-winemakers-selection-sauvignon-blanc-2024-176775039": {
+   "price_eur": 9.5,
+   "stock": 13,
+   "bottle_ml": 750
+  },
+  "winzervereinigung-freyburg-unstrut-kellermeister-edition-rot-2019-160085323": {
+   "price_eur": 12.0,
+   "stock": 1,
+   "bottle_ml": 750
+  },
+  "zur-fledermaus-spatburgunder-rotwein-der-zwolfte-flug-2021-177309909": {
+   "price_eur": 16.0,
+   "stock": 22,
+   "bottle_ml": 750
+  }
+ }
+}
