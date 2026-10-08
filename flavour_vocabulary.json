@@ -1,0 +1,530 @@
+[
+  {
+    "tag": "horse sweat",
+    "french": "sueur de cheval",
+    "family": "Faults",
+    "group": "Brett"
+  },
+  {
+    "tag": "corn",
+    "french": "maïs",
+    "family": "Faults",
+    "group": "Sulphur"
+  },
+  {
+    "tag": "onion",
+    "french": "oignon",
+    "family": "Faults",
+    "group": "Sulphur"
+  },
+  {
+    "tag": "rubber",
+    "french": "caoutchouc",
+    "family": "Faults",
+    "group": "Sulphur"
+  },
+  {
+    "tag": "nail polish remover",
+    "french": "dissolvant vernis à ongles",
+    "family": "Faults",
+    "group": "Volatile acidity"
+  },
+  {
+    "tag": "vinegar",
+    "french": "vinaigre",
+    "family": "Faults",
+    "group": "Volatile acidity"
+  },
+  {
+    "tag": "madeira",
+    "french": "madère",
+    "family": "Faults",
+    "group": "Maderised"
+  },
+  {
+    "tag": "sherry",
+    "french": "sherry",
+    "family": "Faults",
+    "group": "Oxidised"
+  },
+  {
+    "tag": "corked",
+    "french": "bouchonné",
+    "family": "Faults",
+    "group": "Cork taint"
+  },
+  {
+    "tag": "oak moss",
+    "french": "mousse d'arbre",
+    "family": "Faults",
+    "group": "Cork taint"
+  },
+  {
+    "tag": "mushroom",
+    "french": "champignon",
+    "family": "Faults",
+    "group": "Undergrowth"
+  },
+  {
+    "tag": "truffle",
+    "french": "truffe",
+    "family": "Faults",
+    "group": "Undergrowth"
+  },
+  {
+    "tag": "meat juice",
+    "french": "jus de viande",
+    "family": "Faults",
+    "group": "Animal"
+  },
+  {
+    "tag": "leather",
+    "french": "cuir",
+    "family": "Faults",
+    "group": "Animal"
+  },
+  {
+    "tag": "soy sauce",
+    "french": "sauce de soja",
+    "family": "Faults",
+    "group": "Aged red wine"
+  },
+  {
+    "tag": "honey",
+    "french": "miel",
+    "family": "Faults",
+    "group": "Aged white wine"
+  },
+  {
+    "tag": "quince jelly",
+    "french": "gelée de coing",
+    "family": "Faults",
+    "group": "Aged white wine"
+  },
+  {
+    "tag": "lemon",
+    "french": "citron",
+    "family": "White-wine fruit",
+    "group": "Citrus"
+  },
+  {
+    "tag": "lime",
+    "french": "citron vert",
+    "family": "White-wine fruit",
+    "group": "Citrus"
+  },
+  {
+    "tag": "grapefruit",
+    "french": "pamplemousse",
+    "family": "White-wine fruit",
+    "group": "Citrus"
+  },
+  {
+    "tag": "gooseberry",
+    "french": "groseille à maquereau",
+    "family": "White-wine fruit",
+    "group": "White berries"
+  },
+  {
+    "tag": "pear",
+    "french": "poire",
+    "family": "White-wine fruit",
+    "group": "Pome fruit"
+  },
+  {
+    "tag": "apple",
+    "french": "pomme",
+    "family": "White-wine fruit",
+    "group": "Pome fruit"
+  },
+  {
+    "tag": "green apple",
+    "french": "pomme verte",
+    "family": "White-wine fruit",
+    "group": "Pome fruit"
+  },
+  {
+    "tag": "peach",
+    "french": "pêche",
+    "family": "White-wine fruit",
+    "group": "Stone fruit"
+  },
+  {
+    "tag": "melon",
+    "french": "melon",
+    "family": "White-wine fruit",
+    "group": "Tropical fruit"
+  },
+  {
+    "tag": "guava",
+    "french": "goyave",
+    "family": "White-wine fruit",
+    "group": "Tropical fruit"
+  },
+  {
+    "tag": "pineapple",
+    "french": "ananas",
+    "family": "White-wine fruit",
+    "group": "Tropical fruit"
+  },
+  {
+    "tag": "passion fruit",
+    "french": "fruit de la passion",
+    "family": "White-wine fruit",
+    "group": "Tropical fruit"
+  },
+  {
+    "tag": "lychee",
+    "french": "litchi",
+    "family": "White-wine fruit",
+    "group": "Tropical fruit"
+  },
+  {
+    "tag": "banana",
+    "french": "banane",
+    "family": "White-wine fruit",
+    "group": "Tropical fruit"
+  },
+  {
+    "tag": "dried apricot",
+    "french": "abricot sec",
+    "family": "White-wine fruit",
+    "group": "Botrytised"
+  },
+  {
+    "tag": "orange peel",
+    "french": "écorce d'orange",
+    "family": "White-wine fruit",
+    "group": "Botrytised"
+  },
+  {
+    "tag": "raspberry",
+    "french": "framboise",
+    "family": "Red-wine fruit",
+    "group": "Red berries"
+  },
+  {
+    "tag": "blackcurrant",
+    "french": "cassis",
+    "family": "Red-wine fruit",
+    "group": "Red berries"
+  },
+  {
+    "tag": "strawberry",
+    "french": "fraise",
+    "family": "Red-wine fruit",
+    "group": "Red berries"
+  },
+  {
+    "tag": "blackberry",
+    "french": "mûre",
+    "family": "Red-wine fruit",
+    "group": "Red berries"
+  },
+  {
+    "tag": "cherry",
+    "french": "cerise",
+    "family": "Red-wine fruit",
+    "group": "Stone fruit"
+  },
+  {
+    "tag": "plum",
+    "french": "prune",
+    "family": "Red-wine fruit",
+    "group": "Stone fruit"
+  },
+  {
+    "tag": "prune",
+    "french": "pruneau",
+    "family": "Red-wine fruit",
+    "group": "Fortified"
+  },
+  {
+    "tag": "honeysuckle",
+    "french": "chèvrefeuille",
+    "family": "Floral",
+    "group": "Floral"
+  },
+  {
+    "tag": "hawthorn",
+    "french": "aubépine",
+    "family": "Floral",
+    "group": "Floral"
+  },
+  {
+    "tag": "orange blossom",
+    "french": "fleur d'oranger",
+    "family": "Floral",
+    "group": "Floral"
+  },
+  {
+    "tag": "linden",
+    "french": "tilleul",
+    "family": "Floral",
+    "group": "Floral"
+  },
+  {
+    "tag": "jasmine",
+    "french": "jasmin",
+    "family": "Floral",
+    "group": "Floral"
+  },
+  {
+    "tag": "acacia",
+    "french": "acacia",
+    "family": "Floral",
+    "group": "Floral"
+  },
+  {
+    "tag": "rose",
+    "french": "rose",
+    "family": "Floral",
+    "group": "Floral"
+  },
+  {
+    "tag": "lavender",
+    "french": "lavande",
+    "family": "Floral",
+    "group": "Floral"
+  },
+  {
+    "tag": "violet",
+    "french": "violette",
+    "family": "Floral",
+    "group": "Floral"
+  },
+  {
+    "tag": "bell pepper",
+    "french": "poivron",
+    "family": "Vegetal",
+    "group": "Vegetables"
+  },
+  {
+    "tag": "fennel",
+    "french": "fenouil",
+    "family": "Vegetal",
+    "group": "Vegetables"
+  },
+  {
+    "tag": "tomato",
+    "french": "tomate",
+    "family": "Vegetal",
+    "group": "Vegetables"
+  },
+  {
+    "tag": "cut grass",
+    "french": "herbe coupée",
+    "family": "Vegetal",
+    "group": "Fresh herbs"
+  },
+  {
+    "tag": "dill",
+    "french": "aneth",
+    "family": "Vegetal",
+    "group": "Fresh herbs"
+  },
+  {
+    "tag": "thyme",
+    "french": "thym",
+    "family": "Vegetal",
+    "group": "Fresh herbs"
+  },
+  {
+    "tag": "fern",
+    "french": "fougère",
+    "family": "Vegetal",
+    "group": "Fresh herbs"
+  },
+  {
+    "tag": "mint",
+    "french": "menthe",
+    "family": "Vegetal",
+    "group": "Fresh herbs"
+  },
+  {
+    "tag": "tobacco",
+    "french": "tabac",
+    "family": "Vegetal",
+    "group": "Dried herbs"
+  },
+  {
+    "tag": "black tea",
+    "french": "thé noir",
+    "family": "Vegetal",
+    "group": "Dried herbs"
+  },
+  {
+    "tag": "hay",
+    "french": "foin",
+    "family": "Vegetal",
+    "group": "Dried herbs"
+  },
+  {
+    "tag": "eucalyptus",
+    "french": "eucalyptus",
+    "family": "Vegetal",
+    "group": "Leaves"
+  },
+  {
+    "tag": "bay leaf",
+    "french": "laurier",
+    "family": "Vegetal",
+    "group": "Leaves"
+  },
+  {
+    "tag": "blackcurrant leaf",
+    "french": "feuille de cassis",
+    "family": "Vegetal",
+    "group": "Leaves"
+  },
+  {
+    "tag": "kerosene",
+    "french": "kérosène",
+    "family": "Mineral",
+    "group": "Mineral"
+  },
+  {
+    "tag": "flint",
+    "french": "silex",
+    "family": "Mineral",
+    "group": "Mineral"
+  },
+  {
+    "tag": "iodine",
+    "french": "iode",
+    "family": "Mineral",
+    "group": "Mineral"
+  },
+  {
+    "tag": "butter",
+    "french": "beurre",
+    "family": "Yeast / malolactic",
+    "group": "Yeast / malolactic"
+  },
+  {
+    "tag": "bread",
+    "french": "pain",
+    "family": "Yeast / malolactic",
+    "group": "Yeast / malolactic"
+  },
+  {
+    "tag": "tar",
+    "french": "goudron",
+    "family": "Oak ageing",
+    "group": "Toasted"
+  },
+  {
+    "tag": "smoke",
+    "french": "fumée",
+    "family": "Oak ageing",
+    "group": "Toasted"
+  },
+  {
+    "tag": "bacon",
+    "french": "bacon",
+    "family": "Oak ageing",
+    "group": "Toasted"
+  },
+  {
+    "tag": "coffee",
+    "french": "café",
+    "family": "Oak ageing",
+    "group": "Toasted"
+  },
+  {
+    "tag": "toast",
+    "french": "toast",
+    "family": "Oak ageing",
+    "group": "Toasted"
+  },
+  {
+    "tag": "chocolate",
+    "french": "chocolat",
+    "family": "Oak ageing",
+    "group": "Toasted"
+  },
+  {
+    "tag": "caramel",
+    "french": "caramel",
+    "family": "Oak ageing",
+    "group": "Toasted"
+  },
+  {
+    "tag": "clove",
+    "french": "clou de girofle",
+    "family": "Oak ageing",
+    "group": "Spices"
+  },
+  {
+    "tag": "nutmeg",
+    "french": "noix de muscade",
+    "family": "Oak ageing",
+    "group": "Spices"
+  },
+  {
+    "tag": "liquorice",
+    "french": "réglisse",
+    "family": "Oak ageing",
+    "group": "Spices"
+  },
+  {
+    "tag": "cinnamon",
+    "french": "cannelle",
+    "family": "Oak ageing",
+    "group": "Spices"
+  },
+  {
+    "tag": "pepper",
+    "french": "poivre",
+    "family": "Oak ageing",
+    "group": "Spices"
+  },
+  {
+    "tag": "vanilla",
+    "french": "vanille",
+    "family": "Oak ageing",
+    "group": "Spices"
+  },
+  {
+    "tag": "almond",
+    "french": "amande",
+    "family": "Oak ageing",
+    "group": "Nuts"
+  },
+  {
+    "tag": "hazelnut",
+    "french": "noisette",
+    "family": "Oak ageing",
+    "group": "Nuts"
+  },
+  {
+    "tag": "coconut",
+    "french": "noix de coco",
+    "family": "Oak ageing",
+    "group": "Nuts"
+  },
+  {
+    "tag": "pine",
+    "french": "pin",
+    "family": "Oak ageing",
+    "group": "Wood"
+  },
+  {
+    "tag": "cedar",
+    "french": "cèdre",
+    "family": "Oak ageing",
+    "group": "Wood"
+  },
+  {
+    "tag": "sandalwood",
+    "french": "bois de santal",
+    "family": "Oak ageing",
+    "group": "Wood"
+  },
+  {
+    "tag": "oak",
+    "french": "chêne",
+    "family": "Oak ageing",
+    "group": "Wood"
+  }
+]
